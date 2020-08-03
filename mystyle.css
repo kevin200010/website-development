@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+}
+#header{
+	text-align :center;
+}
+.box{
+		padding: 10px;
+}
+#column{
+	width: 100%;
+	box-sizing: border-box;
+	border: 1px solid black;
+	background-color: grey;
+	padding: 10px;
+	padding-bottom: 10px
+	padding-right:10px;
+	}
+p{
+	height: 20px;
+	background-color: red;		
+	margin: 0px;
+	margin-bottom: 13px;
+	position: relative;
+}
+.title_name{
+	text-align: center;
+	width:120px;
+	position: absolute;
+	right: 10px;
+}
+div>div>div{
+    position: relative;
+	top: 0px;
+	background-color: red;
+	margin-right: 30px
+	
+}
